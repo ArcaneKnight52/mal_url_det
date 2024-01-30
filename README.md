@@ -1,10 +1,6 @@
 # Malicious Website detection using Machine Learning
 
 
-I have Build a chrome extension 
-
-
-
 ## Steps to install the chrome extension:
 
 1. Google Chrome -> More Tools -> Extensions
